@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JournalApp.API/JournalApp.API.csproj" />
+    <Project Path="src/JournalApp.Application/JournalApp.Application.csproj" />
+    <Project Path="src/JournalApp.Domain/JournalApp.Domain.csproj" />
+    <Project Path="src/JournalApp.Infrastructure/JournalApp.Infrastructure.csproj" />
+  </Folder>
+</Solution>
